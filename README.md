@@ -3,15 +3,6 @@
 ## Overview
 This app is designed for managing contacts efficiently with essential features like authentication, viewing, adding, and searching contacts.
 
-## Technologies Used
-- **Java**: For native mobile development, ensuring high performance and seamless integration with Android.
-- **SQLite**: A lightweight, embedded database used to manage and store contact data locally.
-- **Session Storage**: Used to maintain user login sessions, so users can stay logged in even after app restarts.
-
-## Description
-This contact management system provides a streamlined way to manage personal or professional contacts, complete with secure login, intuitive UI for viewing and adding contacts, and robust search functionality.
-
-
 ## Screenshots
 Below are screenshots showcasing the various functionalities of the contact management feature. Click on any image to view a larger version.
 
@@ -27,3 +18,11 @@ Below are screenshots showcasing the various functionalities of the contact mana
   <img src="https://github.com/user-attachments/assets/8b120e58-27a1-4b56-8f69-30a4c8b1ff3e" alt="search" width="200"/>
 </p>
 
+## Technologies Used
+
+- **Java**: For native mobile development, ensuring high performance and seamless integration with Android.
+- **SQLite**: A lightweight, embedded database used to manage and store contact data locally.
+- **Session Storage**: Used to maintain user login sessions, so users can stay logged in even after app restarts.
+
+## Description
+This contact management system provides a streamlined way to manage personal or professional contacts, complete with secure login, intuitive UI for viewing and adding contacts, and robust search functionality.
