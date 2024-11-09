@@ -6,6 +6,10 @@
 
 A robust Android contact management application developed in Java, featuring secure authentication and efficient contact organization.
 
+## 📝 License
+
+This project is a university project reshared for educational purposes. Feel free to use it as reference for your own projects.
+
 ## ✨ Features
 
 - 🔐 **Secure Authentication**
@@ -66,7 +70,7 @@ A robust Android contact management application developed in Java, featuring sec
 ### Installation Steps
 1. Clone the repository
    ```bash
-   git clone https://github.com/YOUR_USERNAME/contact-management-app.git
+   git clone https://github.com/yassinezaanouni/contacti.git
    ```
 
 2. Open in Android Studio
@@ -125,15 +129,12 @@ A robust Android contact management application developed in Java, featuring sec
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📞 Contact
 
-[Your Name] - [your.email@example.com]
+Yassine Zaanouni - yassinezaanouni@gmail.com
 
-Project Link: [https://github.com/YOUR_USERNAME/contact-management-app](https://github.com/YOUR_USERNAME/contact-management-app)
+Project Link: [https://github.com/yassinezaanouni/contacti](https://github.com/yassinezaanouni/contacti)
 
 ---
 ⭐️ If you find this project helpful, please give it a star!
